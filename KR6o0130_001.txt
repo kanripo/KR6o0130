@@ -1,24 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:23.764967
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:58
 #+TITLE: 讚法界頌
 #+PROPERTY: CBETA_ID T32n1675
 #+PROPERTY: ID KR6o0130
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1675
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0130_T_000-0754b>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0130_T_001-0754b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1675¶
-
- 讚法界頌¶
+No. 1675¶
+讚法界頌¶
 ¶
 聖龍樹菩薩造¶
-西天北印度烏填曩國帝釋宮寺¶
-三藏傳法大師賜紫沙門臣施護¶
-奉　詔譯¶
+西天北印度烏填曩國帝釋宮寺三藏傳法大師賜紫沙門臣施護奉　詔譯¶
 
 #+BEGIN_VERSE
 「　歸命十方佛
@@ -374,7 +371,7 @@ No.1675¶
 　少分而稱讚
 　廣宣理趣玄¶
 　願將諸功德
-　普利施人天
+　普利施人天」
 #+END_VERSE
-」¶
+¶
 讚法界頌
