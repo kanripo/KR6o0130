@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:24.404155
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:58
 #+TITLE: 讚法界頌
 #+PROPERTY: CBETA_ID T32n1675
 #+PROPERTY: ID KR6o0130
@@ -373,7 +373,7 @@ No. 1675¶
 　少分而稱讚
 　廣宣理趣玄¶
 　願將諸功德
-　普利施人天
+　普利施人天」
 #+END_VERSE
-」¶
+¶
 讚法界頌
